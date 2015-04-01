@@ -1,3 +1,11 @@
+### THIS IS NOT THE CANONICAL REPOSITORY FOR LIBPRUIO ###
+
+I just wanted to be able to browse the source code for libpruio and make a few changes for my own work. The canonical source, so far as I am aware, is http://www.freebasic-portal.de/downloads/fb-on-arm/libpruio-325.html
+
+--Brandon, April 2015
+
+### Original README.txt below ###
+
 This package includes the source code of libpruio, a library supporting
 digital and analog input and output capabilities for the Beaglebone
 hardware with TI AM3359 CPU. Also examples and a tool for device tree
